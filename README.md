@@ -1,5 +1,7 @@
 # AsyncMQTT_ESP32 Library
 
+ > Fork: Removed unnecessary dependencies only keeping required ones for nodemcu-s
+
 [![arduino-library-badge](https://www.ardu-badge.com/badge/AsyncMQTT_ESP32.svg?)](https://www.ardu-badge.com/AsyncMQTT_ESP32)
 [![GitHub release](https://img.shields.io/github/release/khoih-prog/AsyncMQTT_ESP32.svg)](https://github.com/khoih-prog/AsyncMQTT_ESP32/releases)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#Contributing)
